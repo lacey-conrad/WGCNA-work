@@ -261,7 +261,7 @@ head(edge_list)
 #############################################
 # +++++++++++++++++++++++++++++++++++++++++ #
 # Export Network file to be read into Cytoscape, VisANT, etc
-write_delim(edge_list, file = "edgelist.tsv", delim = "\t")
+#write_delim(edge_list, file = "edgelist.tsv", delim = "\t")
 # ------------------------------------------ #
 ##############################################
 
