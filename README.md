@@ -10,4 +10,4 @@ Videos for WGCNA:
 Other WGCNA help:
 1. Wayback machine for Steve Horvath's WGCNA website (https://web.archive.org/web/20230323144343/horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/)
 2. Jennifer Chang and Siva Chudalayandi's guide on WGCNA (https://bioinformaticsworkbook.org/tutorials/wgcna.html#gsc.tab=0)
-
+3. Natália Faraj Murad tutorial: (https://rpubs.com/natmurad/WGCNA/)
